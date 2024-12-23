@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rasika1023
 - 👀 I’m interested in exploring new things.
-- 🌱 I’m currently learning python.
-- 💞️ I’m already collaborated.
+- 🌱 I’m an Data Science Enthusiast.
 - 📫 How to reach me rasikak1023@gmail.com 
 
 <!---
