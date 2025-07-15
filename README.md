@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate and curious individual who loves 
 
 ## 🏆 Achievements & Creativity
 
-- ✅ Built an end-to-end Porjects using Python, SQL, Excel and Power BI.
+- ✅ Built an end-to-end Projects using Python, SQL, Excel and Power BI.
 - 📊 Designed intuitive dashboards to communicate insights effectively to non-technical stakeholders.
 - 📂 Worked with real-world datasets to derive KPIs, visualize trends, and perform segmentation analysis.
 - 💻 Created multiple notebooks combining technical rigor with aesthetic clarity for better communication.
